@@ -1,0 +1,55 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "5a37a5f6-7d35-4217-b1a6-13ed210c80f7",
+   "metadata": {},
+   "source": [
+    "This notebook demonstrates a simple \"Hello, World!\" script in R"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "f265e2a3-da2f-43fd-a99a-56963e1e74b9",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "[1] \"Hello, world!\"\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"Hello, world!\")\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "65a83c75-7cc5-4d79-be8e-e77db76a45d6",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "R (7030_class_1)",
+   "language": "R",
+   "name": "ir_7030_class_1"
+  },
+  "language_info": {
+   "codemirror_mode": "r",
+   "file_extension": ".r",
+   "mimetype": "text/x-r-source",
+   "name": "R",
+   "pygments_lexer": "r",
+   "version": "4.4.3"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
