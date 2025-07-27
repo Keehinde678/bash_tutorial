@@ -1,0 +1,24 @@
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+
+# macOS system files
+.DS_Store
+
+# Log files
+*.log
+
+# Jupyter checkpoints (if you use Jupyter notebooks)
+.ipynb_checkpoints/
+
+# Temporary files created by editors
+*~
+*.swp
+
+# Data files you don't want to track (adjust as needed)
+data/
+outputs/
